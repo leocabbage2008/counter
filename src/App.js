@@ -3,7 +3,6 @@ import "./App.css";
 import { useState } from "react";
 import Button from "./components/Button";
 import Disp from "./components/Disp";
-import btnContainer from "./components/btnContainer";
 
 function App() {
   const [count, setCount] = useState(0);
